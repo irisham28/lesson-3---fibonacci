@@ -11,4 +11,8 @@ for i in range(n):
     print(fibonacci(i), end= " ")
 
 #best case: if n is 1 or 0 
-    #recursive/worst case if n>1 
+#recursive/worst case if n>1 
+
+#time complexity: O(2^n) worst case
+#space complexity: O(n) - best case 
+
