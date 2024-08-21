@@ -16,3 +16,5 @@ for i in range(n):
 #time complexity: O(2^n) worst case
 #space complexity: O(n) - best case 
 
+# for the factorials--> time and space complexiy :O(n)--> linear 
+
